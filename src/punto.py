@@ -18,4 +18,4 @@ class punto:
         factor = -1
         return punto(-self.x * factor, -self.y * factor)
 
-print("no se deberia ejecutar este codigo")
+print("esto no deberia cverse")
